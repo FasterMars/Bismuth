@@ -1,0 +1,3 @@
+[submodule "Bismuth-Core/vendor"]
+	path = Bismuth-Core/vendor
+	url = https://github.com/gabime/spdlog.git
