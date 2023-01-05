@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bismuth-Core", "Bismuth-Core\Bismuth-core.vcxproj", "{290F1215-7203-45ED-BF01-3617D49DFCD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bismuth-Sandbox", "Bismuth-Sandbox\Bismuth-Sandbox.vcxproj", "{23CA07E9-FABB-485D-97CE-CC2A91BA518F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290F1215-7203-45ED-BF01-3617D49DFCD3}.Debug|x64.ActiveCfg = Debug|x64
+		{290F1215-7203-45ED-BF01-3617D49DFCD3}.Debug|x64.Build.0 = Debug|x64
+		{290F1215-7203-45ED-BF01-3617D49DFCD3}.Release|x64.ActiveCfg = Release|x64
+		{290F1215-7203-45ED-BF01-3617D49DFCD3}.Release|x64.Build.0 = Release|x64
+		{23CA07E9-FABB-485D-97CE-CC2A91BA518F}.Debug|x64.ActiveCfg = Debug|x64
+		{23CA07E9-FABB-485D-97CE-CC2A91BA518F}.Debug|x64.Build.0 = Debug|x64
+		{23CA07E9-FABB-485D-97CE-CC2A91BA518F}.Release|x64.ActiveCfg = Release|x64
+		{23CA07E9-FABB-485D-97CE-CC2A91BA518F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B61295F-F95D-4301-8FCC-663E7F0EA02C}
+	EndGlobalSection
+EndGlobal
